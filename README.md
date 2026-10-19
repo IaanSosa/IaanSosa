@@ -1,24 +1,13 @@
-![Banner de Ian](github-header-banner(1).png)
+![Banner de Ian](github-header-banner(3).png)
 ## ABOUT ME
 - 🤓 I'm Ian ∴
 - 🌍 I'm based in: México City
 - 🎓 I am currently studying at university
-- 🗣️ The languages ​​I speak are: Spanish, English, and Nahuatl.
+- 🗣️ The languages ​​I speak are: Spanish, English and Nahuatl.
 
 # ESTUDIOS
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://www.ipn.mx/" target="_blank" rel="noreferrer">
-        <img src="ipn logo.png" alt="IPN" title="IPN" width="150" height="90" />
-      </a>
-    </td>
-    <td valign="top">
-      <b><font size="5">Instituto Politécnico Nacional (IPN)</font></b><br>
-      <b><font size="4">Escuela Superior de Ingenieria Mecanica y Electrica (ESIME Culhuacan)</font></b>
-    </td>
-  </tr>
-</table>
+
+![Banner de Ipn](Gemini_Generated_Image_cwhm4vcwhm4vcwhm.jpg)
 
 # SKILLS
 
