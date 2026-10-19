@@ -6,15 +6,19 @@
 - 🗣️ The languages ​​I speak are: Spanish, English, and Nahuatl.
 
 # ESTUDIOS
-<p align="left">
-  <a href="https://www.ipn.mx/" target="_blank" rel="noreferrer">
-    <img src="ipn logo.png" alt="IPN" title="IPN" width="140" height="180" align="left" />
-  </a>
-  <b><font size="7">Instituto Politécnico Nacional (IPN)</font></b><br>
-  <b><font size="6"><em>Escuela Superior de Ingenieria Mecanica y Electrica (ESIME)</font></b><br>
-  <b><font size="5"><em>"La técnica al servicio de la patria"</font></b>
-</p>
-<br clear="left" />
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://www.ipn.mx/" target="_blank" rel="noreferrer">
+        <img src="ipn logo.png" alt="IPN" title="IPN" width="150" height="90" />
+      </a>
+    </td>
+    <td valign="top">
+      <b><font size="5">Instituto Politécnico Nacional (IPN)</font></b><br>
+      <b><font size="4">Escuela Superior de Ingenieria Mecanica y Electrica (ESIME Culhuacan)</font></b>
+    </td>
+  </tr>
+</table>
 
 # SKILLS
 
