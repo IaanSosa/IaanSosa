@@ -10,9 +10,9 @@
   <a href="https://www.ipn.mx/" target="_blank" rel="noreferrer">
     <img src="ipn logo.png" alt="IPN" title="IPN" width="90" height="90" align="left" />
   </a>
-  <b><font size="5">Instituto Politécnico Nacional (IPN)</font></b><br>
-  <b><font size="2"><em>Escuela Superior de Ingenieria Mecanica y Electrica (ESIME)</font></b><br>
-  <b><font size="2"><em>"La técnica al servicio de la patria"</font></b>
+  <b><font size="6">Instituto Politécnico Nacional (IPN)</font></b><br>
+  <b><font size="5"><em>Escuela Superior de Ingenieria Mecanica y Electrica (ESIME)</font></b><br>
+  <b><font size="5"><em>"La técnica al servicio de la patria"</font></b>
 </p>
 <br clear="left" />
 
